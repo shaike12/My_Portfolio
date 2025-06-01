@@ -14,11 +14,11 @@ const projects = [
     id: 2,
     title: "Orbit Analytics Dashboard",
     description:
-      "Interactive analytics dashboard with data visualization and filtering capabilities.",
+      "This Netflix Clone is a responsive web application built with React and styled using Tailwind CSS, integrating the TMDb API to display movies and TV shows dynamically. It features smooth navigation, detailed movie pages, and a modern UI that replicates the core look and feel of Netflix.",
     image: "/projects/project2.png",
-    tags: ["TypeScript", "D3.js", "Next.js"],
-    demoUrl: "#",
-    githubUrl: "#",
+    tags: ["Tailwindcss", "Express.js", "React.js", "MongoDB"],
+    demoUrl: "https://netflix-clone-sey3.onrender.com/",
+    githubUrl: "https://github.com/shaike12/Netflix_Clone",
   },
   {
     id: 3,
