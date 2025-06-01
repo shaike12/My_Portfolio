@@ -4,7 +4,7 @@ const projects = [
   {
     id: 1,
     title: "Products Store",
-    description: "A beautiful Products Store app using React and Chakra-Ui.",
+    description: "This beautiful Products Store app is built with React and styled using Chakra UI, offering a clean and responsive user interface. It allows users to browse, create, update, and delete products with ease, leveraging Zustand for state management and a Node.js + Express backend for full CRUD functionality.",
     image: "/projects/project1.png",
     tags: ["React", "Chakra-Ui", "Express.js", "MongoDB"],
     demoUrl: "https://mern-fullstack-store.onrender.com/",
@@ -12,7 +12,7 @@ const projects = [
   },
   {
     id: 2,
-    title: "Orbit Analytics Dashboard",
+    title: "Netflix Clone",
     description:
       "This Netflix Clone is a responsive web application built with React and styled using Tailwind CSS, integrating the TMDb API to display movies and TV shows dynamically. It features smooth navigation, detailed movie pages, and a modern UI that replicates the core look and feel of Netflix.",
     image: "/projects/project2.png",
